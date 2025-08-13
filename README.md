@@ -32,7 +32,7 @@ This project transforms raw sales data into a comprehensive dashboard that allow
 ---
 
 ## 📷 Dashboard Preview
-<img width="1491" height="671" alt="Dashboard_1" src="https://github.com/user-attachments/assets/your-image-id-here" />
+<img width="1271" height="658" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d9fec33c-d7a4-4f19-9e3d-519ca26321bf" />
 
 ---
 
